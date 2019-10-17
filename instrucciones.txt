@@ -1,0 +1,8 @@
+https://www.raspberrypi.org/forums/viewtopic.php?t=129320
+ --> chromium-browser --version (ver la versión de Chromium)
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=129320
+ --> sudo apt-get install openssl gem ruby xvfb
+
+https://www.reddit.com/r/selenium/comments/7341wt/success_how_to_run_selenium_chrome_webdriver_on/
+ --> instalar la versión correcta del .deb de chromium-driver (dpkg -i chromium-driver)
